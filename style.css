@@ -3,3 +3,11 @@
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
+.recipe-page{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image{
+    width: auto;
+    height: 200px;
+}
